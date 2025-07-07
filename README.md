@@ -8,9 +8,9 @@
 - Linguagens utilizadas: **HTML** para a estruturaçäo, **CSS** para a estilizaçäo e **JS** para animações.
 - Framework: **Visual Studio Code**
   
-
 ## Imagens do Projeto
 
+ ![Demonstraçäo](https://github.com/LucasCordeiro-dev/ProjetoPortolioPessoal/blob/main/img/PortfolioPessoal.gif) 
 
 ## Instruções de Instalação
 ### Pré-requisitos
